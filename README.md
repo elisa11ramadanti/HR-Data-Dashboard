@@ -4,6 +4,9 @@ HR-Data-Dashboard
 
 Nama: Elisa Ramadanti
 
+
+<img width="1000" alt="elisa12-dashboard" src="https://github.com/user-attachments/assets/fbe11371-9c6f-4eec-a7ea-ce66a0e9768f" />
+
 ---
 
 ## Business Understanding
