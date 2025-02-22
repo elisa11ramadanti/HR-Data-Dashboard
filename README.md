@@ -1,4 +1,4 @@
-# Proyek Akhir: Menyelesaikan Permasalahan Perusahaan Edutech
+# Laporan Proyek Menyelesaikan Permasalahan Perusahaan Edutech
 
 HR-Data-Dashboard
 
