@@ -108,6 +108,4 @@ Link Dashboard: [HR Data Dashboard](http://localhost:3000/public/dashboard/d7ece
 
 ---
 
-### Login Metabase
-- `Email` : elisaramadanti11@gmail.com
-- `password` : Tahuwalik12_ 
+ 
